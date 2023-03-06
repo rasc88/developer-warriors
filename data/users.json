@@ -1,0 +1,52 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "name": "Mojombo",
+            "followers": 60,
+            "repositories": 40,
+            "languages": 10,
+            "avatar": "http://localhost:8080/avatar/1.jpg"
+        },
+        {
+            "id": 2,
+            "name": "Defunkt",
+            "followers": 50,
+            "repositories": 20,
+            "languages": 80,
+            "avatar": "http://localhost:8080/avatar/2.jpg"
+        },
+        {
+            "id": 3,
+            "name": "Pjhyett",
+            "followers": 90,
+            "repositories": 80,
+            "languages": 90,
+            "avatar": "http://localhost:8080/avatar/3.jpg"
+        },
+        {
+            "id": 4,
+            "name": "Wycats",
+            "followers": 50,
+            "repositories": 40,
+            "languages": 80,
+            "avatar": "http://localhost:8080/avatar/4.jpg"
+        },
+        {
+            "id": 5,
+            "name": "Ezmobius",
+            "followers": 80,
+            "repositories": 20,
+            "languages": 70,
+            "avatar": "http://localhost:8080/avatar/5.jpg"
+        },
+        {
+            "id": 6,
+            "name": "ezmobius",
+            "followers": 46,
+            "repositories": 15,
+            "languages": 59,
+            "avatar": "http://localhost:8080/avatar/6.jpg"
+        }
+    ]
+}
